@@ -43,3 +43,28 @@ The goal is to build a functional web application that allows users to browse pr
 ### 💡 Importance of a User-Friendly Design
 A well-designed booking system helps users complete their bookings easily and confidently.  
 It reduces frustration, increases trust, and improves overall satisfaction — leading to more successful bookings.
+
+---
+
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+- **Primary Color:** `#FF5A5F` (Airbnb Red)
+- **Secondary Color:** `#008489` (Teal Blue)
+- **Background Color:** `#FFFFFF` (White)
+- **Text Color:** `#222222` (Dark Gray)
+- **Secondary Text:** `#717171` (Light Gray)
+
+#### ✍️ Typography
+- **Primary Font:** Circular, Medium (500), 16px  
+- **Headings:** Circular, Bold (700), 24px–32px  
+- **Secondary Text:** Circular, Book (400), 14px  
+
+---
+
+### 🧠 Importance of Identifying Design Properties
+Understanding design properties in Figma (like color, font, and spacing) ensures that:
+- Your web app looks **consistent** across all pages.  
+- It helps frontend developers follow the same **design system**.  
+- It makes collaboration between designers and developers easier.  
+- You can create **reusable components** that match the mockup perfectly.
