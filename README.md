@@ -68,3 +68,24 @@ Understanding design properties in Figma (like color, font, and spacing) ensures
 - It helps frontend developers follow the same **design system**.  
 - It makes collaboration between designers and developers easier.  
 - You can create **reusable components** that match the mockup perfectly.
+
+- ---
+
+## 👥 Project Roles and Responsibilities
+
+| **Role** | **Responsibilities** |
+|-----------|----------------------|
+| **Project Manager** | Oversees the timeline, coordinates the team, and ensures all deliverables are completed on time. |
+| **Frontend Developers** | Build the user interface using HTML, CSS, and JavaScript. Ensure responsiveness and accessibility. |
+| **Backend Developers** | Create and manage APIs, handle server logic, and connect the database with the frontend. |
+| **Designers** | Create mockups in Figma, define color schemes and typography, and ensure the design is user-friendly. |
+| **QA/Testers** | Test the application for bugs, write test cases, and ensure quality standards are met. |
+| **DevOps Engineers** | Manage deployment, CI/CD pipelines, and handle server and hosting configurations. |
+| **Product Owner** | Defines project requirements, prioritizes features, and ensures the final product meets user needs. |
+| **Scrum Master** | Facilitates Agile processes, organizes team meetings, and removes any blockers to team progress. |
+
+---
+
+### 💡 Why Roles Matter
+Defining roles helps team members stay organized and accountable.  
+Each person knows their focus area, which makes collaboration smoother and helps the team deliver high-quality software efficiently.
