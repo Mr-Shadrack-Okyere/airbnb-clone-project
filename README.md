@@ -89,3 +89,50 @@ Understanding design properties in Figma (like color, font, and spacing) ensures
 ### 💡 Why Roles Matter
 Defining roles helps team members stay organized and accountable.  
 Each person knows their focus area, which makes collaboration smoother and helps the team deliver high-quality software efficiently.
+
+---
+
+## 🧩 UI Component Patterns
+
+### 🔹 Navbar
+**Elements included:**
+- Website logo  
+- Search bar  
+- User navigation (e.g., profile, login, logout)  
+- Responsive menu for smaller screens  
+
+**Purpose:**  
+The Navbar helps users navigate between pages easily. It remains consistent across all pages and adapts to different device sizes.
+
+---
+
+### 🔹 Property Card
+**Elements included:**
+- Property image  
+- Basic details (price, location, rating)  
+- Favorite/like button  
+- Responsive layout for grid display  
+
+**Purpose:**  
+Displays property previews in the listing page, allowing users to quickly browse available accommodations.
+
+---
+
+### 🔹 Footer
+**Elements included:**
+- Site links (About, Contact, Privacy Policy)  
+- Company information  
+- Social media links  
+- Copyright information  
+
+**Purpose:**  
+The Footer provides important information and consistent branding across all pages.
+
+---
+
+### 💡 Why Component Patterns Matter
+Planning reusable UI components ensures:
+- Consistent design across the whole website  
+- Faster development  
+- Easier maintenance and scalability  
+- Better team collaboration between designers and developers
