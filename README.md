@@ -1,4 +1,4 @@
-# Airbnb Clone Project.
+# Airbnb Clone Project
 
 ## 🏠 Project Overview
 This project is a full-stack clone of the popular accommodation booking platform **Airbnb**.  
