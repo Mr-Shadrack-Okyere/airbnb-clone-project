@@ -136,3 +136,53 @@ Planning reusable UI components ensures:
 - Faster development  
 - Easier maintenance and scalability  
 - Better team collaboration between designers and developers
+
+- ## Team Roles
+
+This project follows a typical team structure for building a scalable backend for an Airbnb-like application. Below are the primary roles and their responsibilities.
+
+### Backend Developer
+- Implement REST and/or GraphQL API endpoints for users, properties, bookings, payments, and reviews.
+- Design and implement business logic, input validation, and error handling.
+- Integrate with authentication systems and third-party services (e.g., payment gateways).
+- Write unit and integration tests for backend components.
+
+### Database Administrator (DBA)
+- Design relational database schemas (tables, relationships, indexes) to support users, properties, bookings, payments, and reviews.
+- Implement and tune indexes, queries, and migrations for performance and reliability.
+- Manage backups, migrations, and optimization strategies (e.g., partitioning, query optimization).
+- Coordinate with DevOps on replication, scaling, and backup/restore processes.
+
+### DevOps Engineer
+- Create containerized environments (Docker) and orchestration (if needed) for consistent deployments.
+- Implement CI/CD pipelines (e.g., GitHub Actions) for automated testing and deployment.
+- Monitor application health, set up logging and alerts, and ensure high availability.
+- Manage infrastructure-as-code, environment variables, and secrets management.
+
+### QA Engineer
+- Define test plans and write automated test suites (unit, integration, end-to-end).
+- Execute manual and automated test cases to verify API behavior, edge cases, and regressions.
+- Report bugs, verify fixes, and ensure quality before deployments.
+- Validate security requirements and API behavior under load where applicable.
+
+### Product Owner
+- Define and prioritize features and acceptance criteria based on user needs and business goals.
+- Maintain the product backlog and accept or reject completed work based on acceptance criteria.
+- Communicate with stakeholders and the development team to ensure alignment.
+
+### Project Manager
+- Plan sprints, coordinate team members, and track deadlines and deliverables.
+- Facilitate meetings (standups, sprint planning, retrospectives) and remove blockers.
+- Ensure proper documentation and timely project deliveries.
+
+### Security Engineer (or Security-focused Developer role)
+- Define and implement API security best practices (authentication, authorization, encryption).
+- Perform security reviews, threat modelling, and remediation of vulnerabilities.
+- Oversee sensitive data handling (PII, payment information) and compliance requirements.
+
+### UI/UX Designer (if applicable)
+- Create wireframes and UI mockups (Figma) for the user flows.
+- Define the visual system: color palette, typography, and spacing tokens.
+- Provide assets and design guidelines to frontend and backend teams for consistent UX.
+
+> **Collaboration note:** Clear role definition improves accountability and speeds up development. In small teams a single person may perform multiple roles (e.g., Backend Developer + DevOps); document who handles what in your project README or team board.
