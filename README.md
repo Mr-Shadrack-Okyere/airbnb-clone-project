@@ -162,9 +162,6 @@ This project helps learners:
 
 ---
 
-### 🧾 Commit Message
-When you finish editing, scroll down and in the **Commit message box**, type:
-
 ## 👥 Team Roles
 
 Building a scalable project like Airbnb requires a team of professionals, each contributing unique expertise. Below are the main roles and their responsibilities:
